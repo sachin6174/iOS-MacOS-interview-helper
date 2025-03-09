@@ -9,7 +9,8 @@
 | Full playlist Best for ios Mac Learning | ▶️ [Full playlist Best for ios Mac Learning](https://www.youtube.com/watch?v=lkU5s5V1GTg&list=PLRcTS2CSnBfPY3bdp0OKMkl9hstKMyrOk) |
 | swift programming fundamentals | ▶️ [swift programming fundamentals](https://www.youtube.com/watch?v=b5abCaytv5M&list=PLRcTS2CSnBfMbk7n5SYBQQhL6iyRf2i81) |
 | Swift Retain Cycle / Memory Leak Explained | ▶️ [Swift Retain Cycle / Memory Leak Explained](https://www.youtube.com/watch?v=XAlXnApplk0) |
-
+| Application Design Pattern in ios playlist | ▶️ [SApplication Design Pattern in ios](https://www.youtube.com/watch?v=XAlXnApplk0) |
+|Video on swift extension Good | ▶️ [Video on swift extension Good](https://www.youtube.com/watch?v=XYS-olBITjY) |
 
 
 ## Questions
@@ -64,6 +65,7 @@ https://nmn.gl/blog/ai-and-learning
 
 Swift Retain Cycle / Memory Leak Explained (iOS Interview Question)
 Memory Management | Retain Cycles | Weak Self
+
 
 
 # Frameworks to explore 
