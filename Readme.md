@@ -8,6 +8,7 @@
 | Comprehensive Networking | ▶️ [iOS Networking Fundamentals](https://www.youtube.com/watch?v=II7WcnHVG4U&list=PLRcTS2CSnBfPY3bdp0OKMkl9hstKMyrOk&index=6) |
 | Full playlist Best for ios Mac Learning | ▶️ [Full playlist Best for ios Mac Learning](https://www.youtube.com/watch?v=lkU5s5V1GTg&list=PLRcTS2CSnBfPY3bdp0OKMkl9hstKMyrOk) |
 | swift programming fundamentals | ▶️ [swift programming fundamentals](https://www.youtube.com/watch?v=b5abCaytv5M&list=PLRcTS2CSnBfMbk7n5SYBQQhL6iyRf2i81) |
+| Swift Retain Cycle / Memory Leak Explained | ▶️ [Swift Retain Cycle / Memory Leak Explained](https://www.youtube.com/watch?v=XAlXnApplk0) |
 
 
 
@@ -60,6 +61,9 @@ In summary, adopting the ObservableObject protocol allows you to build a dynamic
 
 
 https://nmn.gl/blog/ai-and-learning
+
+Swift Retain Cycle / Memory Leak Explained (iOS Interview Question)
+Memory Management | Retain Cycles | Weak Self
 
 
 # Frameworks to explore 
