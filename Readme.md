@@ -11,7 +11,7 @@
 | Swift Retain Cycle / Memory Leak Explained | ▶️ [Swift Retain Cycle / Memory Leak Explained](https://www.youtube.com/watch?v=XAlXnApplk0) |
 | Application Design Pattern in ios playlist | ▶️ [SApplication Design Pattern in ios](https://www.youtube.com/watch?v=XAlXnApplk0) |
 |Video on swift extension Good | ▶️ [Video on swift extension Good](https://www.youtube.com/watch?v=XYS-olBITjY) |
-
+|Video on swift generics Good | ▶️ [Video on swift generics Good](https://www.youtube.com/watch?v=a3AH0ItFTKU) |
 
 ## Questions
 
